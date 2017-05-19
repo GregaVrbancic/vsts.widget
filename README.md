@@ -17,6 +17,8 @@ In the ```index.coffee``` you should change the following variables defined on t
 
 ![screenshot](screenshot.png)
 
+Click on info icon opens a work item in browser.
+
 ## Contribute
 
 Feel free to do pull request or open an issue! :)
