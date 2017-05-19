@@ -1,4 +1,4 @@
-### VSTS Widget
+# VSTS Widget
 
 > Made for [Übersicht](http://tracesof.net/uebersicht/)
 
